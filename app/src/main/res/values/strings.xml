@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BitCoinPrices</string>
+    <string name="bitcoinPriceLabel">Valor:</string>
+</resources>
